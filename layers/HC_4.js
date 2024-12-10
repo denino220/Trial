@@ -1,0 +1,1 @@
+var json_HC_4 = {"type":"FeatureCollection","name":"HC_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Makao makuu","layer":"Makao makuu"},"geometry":{"type":"Point","coordinates":[35.75006663443699,-6.179729696958479]}}]}
